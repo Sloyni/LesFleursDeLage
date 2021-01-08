@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.editorconfig": true,
+        "**/.eslintignore": true,
+        "**/.eslintrc.js": true,
+        "**/.gitignore": true,
+        "**/.postcssrc.js": true,
+        "**/.quasar": true,
+        "**/.vscode": true,
+        "**/node_modules": true,
+        "**/README.md": true
+    }
+}
